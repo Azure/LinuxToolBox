@@ -1,0 +1,3 @@
+[submodule "ALAR"]
+	path = ALAR
+	url = https://github.com/Azure/ALAR.git
